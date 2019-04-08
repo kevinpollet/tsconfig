@@ -1,7 +1,7 @@
 {
   "name": "@kevinpollet/tsconfig",
   "version": "0.0.0",
-  "description": "Shared TypeScript configuration",
+  "description": "Shared TypeScript project configuration",
   "license": "MIT",
   "author": "kevinpollet <pollet.kevin@gmail.com>",
   "homepage": "https://github.com/kevinpollet/tsconfig#readme",
