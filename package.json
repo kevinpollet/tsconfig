@@ -1,7 +1,7 @@
 {
   "name": "@kevinpollet/tsconfig",
   "version": "0.1.0-beta",
-  "description": "Shared TypeScript project configuration",
+  "description": "Shareable TypeScript project configuration",
   "license": "MIT",
   "author": "kevinpollet <pollet.kevin@gmail.com>",
   "homepage": "https://github.com/kevinpollet/tsconfig#readme",
@@ -12,6 +12,11 @@
   "bugs": {
     "url": "https://github.com/kevinpollet/tsconfig/issues"
   },
+  "keywords": [
+    "tsc",
+    "tsconfig",
+    "typescript"
+  ],
   "publishConfig": {
     "access": "public"
   },
