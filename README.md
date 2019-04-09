@@ -8,7 +8,7 @@ Shareable TypeScript project configuration.
 $ npm install --save-dev @kevinpollet/tsconfig
 ```
 
-## Extend TypeScript configuration
+## Extend configuration
 
 ```json
 {
