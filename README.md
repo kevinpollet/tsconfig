@@ -12,8 +12,7 @@ $ npm install --save-dev @kevinpollet/tsconfig
 
 ```json
 {
-  "extends": "@kevinpollet/tsconfig",
-  "compilerOptions": {}
+  "extends": "@kevinpollet/tsconfig"
 }
 ```
 
