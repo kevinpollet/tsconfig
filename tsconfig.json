@@ -14,6 +14,6 @@
     "noUnusedParameters": true,
     "pretty": true,
     "strict": true,
-    "target": "es2016" // Node.js 6, see https://node.green/
+    "target": "es2016" // Node.js 8, see https://node.green
   }
 }
