@@ -1,3 +1,11 @@
 language: node_js
 notifications:
   email: false
+deploy:
+  provider: npm
+  email: pollet.kevin@gmail.com
+  api_key:
+    secure: HMKC0pUcjXXTeF46DFzG7br7e5YrxGB87T5d0ivo7S44cNVVm7ZHeDRRzt6It83X1vqFZI8QYGvDZ16kZNbMh19Nbn63YFB0NOWalGvy9c7g15rcj9hh9+3hQOpoBUzGozY4JAqHr25Ga2OpMphAm1WRR/FBmnXHG4quX4KhwipLDF6V+IUWbhBFMb/HZn+l9eCrS+GOkeqO+nIQ2HIQUBdA36fKquD8EBNqkyRmxi0cuNfFIEp3wQOplJoMxPMCwtTwZuh5GmsC2s2vu1HZXUXJWTj/dGuC8MmUrkl+4yCCcuVvos3B5cm2ChicMWBGP+dduxVI/i5eEekGp+DJUacgdJxy4f3d9lkZQlcaLoI0DXdh7g1APqVSVSzoyjnmrrhvtRL0ebk0wvmwsIYdb7qQ5UbA9NrahLm2VBfWeecnoXiBmI6fffrKTQJFISGW3Abs88bsV3lQXDed5VOc/z7vPB3Hq8y00xcwZdjAMbiK3+3Nk+htrDMMIUriiYG+iOcEf3GrJ6HyjDh+G/wCfOuMy4x9butroaCJapJb95MS4vtojqYmEZLOt2ItcU0IR2NjtIk00HHDXKzfEqaCymEZOsvAxdYJyb5QBXmIVjWd2ZEGG6JfTMMlXjWTAXevSt481qcqR2T9+w8mphyifl2T0e0uN8fecR2c4Y/h5fI=
+  on:
+    tags: true
+    tag: latest

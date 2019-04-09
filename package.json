@@ -12,6 +12,9 @@
   "bugs": {
     "url": "https://github.com/kevinpollet/tsconfig/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "tsconfig.json"
   ],
