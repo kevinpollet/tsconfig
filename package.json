@@ -1,6 +1,6 @@
 {
   "name": "@kevinpollet/tsconfig",
-  "version": "0.1.0-beta",
+  "version": "0.1.0",
   "description": "Shareable TypeScript project configuration",
   "license": "MIT",
   "author": "kevinpollet <pollet.kevin@gmail.com>",
