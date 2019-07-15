@@ -5,13 +5,8 @@
   "license": "MIT",
   "author": "kevinpollet <pollet.kevin@gmail.com>",
   "homepage": "https://github.com/kevinpollet/tsconfig#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kevinpollet/tsconfig.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kevinpollet/tsconfig/issues"
-  },
+  "repository": "github:kevinpollet/tsconfig",
+  "bugs": "https://github.com/kevinpollet/tsconfig/issues",
   "keywords": [
     "tsc",
     "tsconfig",
