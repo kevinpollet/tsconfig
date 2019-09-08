@@ -8,7 +8,7 @@ Shareable TypeScript project configuration.
 $ npm install --save-dev @kevinpollet/tsconfig
 ```
 
-## Extend configuration
+## Usage
 
 ```json
 {
@@ -16,8 +16,8 @@ $ npm install --save-dev @kevinpollet/tsconfig
 }
 ```
 
-👉 See https://www.typescriptlang.org/docs/handbook/tsconfig-json.html for available configuration options.
+See https://www.typescriptlang.org/docs/handbook/tsconfig-json.html for available configuration options.
 
 ## License
 
-See [LICENSE.md](./LICENSE.md)
+[MIT](./LICENSE.md) © kevinpollet
