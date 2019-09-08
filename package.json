@@ -1,7 +1,7 @@
 {
   "name": "@kevinpollet/tsconfig",
-  "version": "0.1.0",
   "description": "Shareable TypeScript project configuration",
+  "version": "0.1.0",
   "license": "MIT",
   "author": "kevinpollet <pollet.kevin@gmail.com>",
   "homepage": "https://github.com/kevinpollet/tsconfig#readme",
@@ -12,10 +12,10 @@
     "tsconfig",
     "typescript"
   ],
-  "main": "tsconfig.json",
   "publishConfig": {
     "access": "public"
   },
+  "main": "tsconfig.json",
   "files": [
     "tsconfig.json"
   ],
