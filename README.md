@@ -1,4 +1,4 @@
-# @kevinpollet/tsconfig &middot; [![Build Status](https://travis-ci.com/kevinpollet/tsconfig.svg?branch=master)](https://travis-ci.com/kevinpollet/tsconfig)
+# @kevinpollet/tsconfig
 
 Shareable TypeScript project configuration.
 
