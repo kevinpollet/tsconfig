@@ -1,6 +1,6 @@
 # @kevinpollet/tsconfig
 
-[![Build Status](https://github.com/kevinpollet/tsconfig/workflows/Build/badge.svg)](https://github.com/kevinpollet/tsconfig/actions)
+[![Build Status](https://github.com/kevinpollet/tsconfig/workflows/build/badge.svg)](https://github.com/kevinpollet/tsconfig/actions)
 
 Shareable TypeScript project configuration.
 
