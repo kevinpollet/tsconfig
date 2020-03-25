@@ -7,7 +7,7 @@ Shareable TypeScript project configuration.
 ## Install
 
 ```bash
-$ npm install --save-dev @kevinpollet/tsconfig
+npm install --save-dev @kevinpollet/tsconfig
 ```
 
 ## Usage
@@ -22,4 +22,4 @@ See https://www.typescriptlang.org/docs/handbook/tsconfig-json.html for availabl
 
 ## License
 
-[MIT](./LICENSE.md) © kevinpollet
+[MIT](./LICENSE.md)
