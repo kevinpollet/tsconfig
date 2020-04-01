@@ -24,9 +24,9 @@
     "format:check": "prettier --check *.{json,md}"
   },
   "devDependencies": {
-    "husky": "^4.2.1",
-    "lint-staged": "^10.0.7",
-    "prettier": "1.19.1"
+    "husky": "^4.2.3",
+    "lint-staged": "^10.1.1",
+    "prettier": "2.0.2"
   },
   "husky": {
     "hooks": {
@@ -35,11 +35,7 @@
   },
   "lint-staged": {
     "*.{md,json}": [
-      "prettier --write",
-      "git add"
+      "prettier --write"
     ]
-  },
-  "prettier": {
-    "trailingComma": "es5"
   }
 }
